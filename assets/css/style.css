@@ -1,0 +1,15 @@
+/* Custom styles for better dark mode switch visibility */
+.form-check-input:checked {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+}
+
+.bg-dark .form-check-input:checked {
+    background-color: #ffc107 !important;
+    border-color: #ffc107 !important;
+}
+
+.bg-dark .form-check-input {
+    background-color: #495057;
+    border-color: #6c757d;
+}
