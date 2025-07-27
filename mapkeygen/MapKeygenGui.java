@@ -128,7 +128,7 @@ public class MapKeygenGui extends JFrame implements ActionListener {
 }
 
 
-/* Location:              C:\Users\Linus\Downloads\generator.jar!\mapkeygen\MapKeygenGui.class
+/* Location:              C:\Users\<REDACTED>\Downloads\generator.jar!\mapkeygen\MapKeygenGui.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

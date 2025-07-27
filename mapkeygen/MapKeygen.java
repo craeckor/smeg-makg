@@ -78,7 +78,7 @@ public class MapKeygen {
 }
 
 
-/* Location:              C:\Users\Linus\Downloads\generator.jar!\mapkeygen\MapKeygen.class
+/* Location:              C:\Users\<REDACTED>\Downloads\generator.jar!\mapkeygen\MapKeygen.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */
