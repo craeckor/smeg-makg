@@ -40,26 +40,6 @@ The generator uses a sophisticated encryption process:
 4. Performs dual-round Twofish encryption with XOR operations
 5. Converts result to activation code using custom character mapping
 
-### File Structure
-```
-├── index.html              # Main application page
-├── assets/
-│   ├── css/
-│   │   ├── bootstrap.css    # Bootstrap framework styles
-│   │   ├── bootstrap-icons.css # Bootstrap icon fonts
-│   │   └── style.css        # Custom dark mode styles
-│   ├── js/
-│   │   ├── bootstrap.bundle.js # Bootstrap JavaScript
-│   │   ├── twofish.js       # Twofish encryption library
-│   │   ├── generator.js     # Core generation logic
-│   │   └── darkmode.js      # Dark mode functionality
-│   ├── favicon/
-│   │   └── favicon.ico      # Site favicon
-│   └── fonts/
-│       ├── bootstrap-icons.woff
-│       └── bootstrap-icons.woff2
-```
-
 ## 🚀 Getting Started
 
 Simply open `index.html` in any modern web browser - no installation required!
